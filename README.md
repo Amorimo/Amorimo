@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá 👋
+
+##Sou um entusiasta da tecnologia que recentemente concluiu o ensino médio e estou cursando um técnico em TI, onde desenvolvi habilidades em [HTML5, CSS3, Python, Java Script, Suporte técnico, Montagem e manutenção de computadores, Windows Server (básico)]. Durante meus estudos, tive a oportunidade de trabalhar em projetos acadêmicos que me ajudaram a fortalecer minha lógica de programação e minha capacidade de solucionar problemas.
+
+Tenho um grande interesse por [Desenvolvimento web, Web design, Suporte técnico, segurança digital, Desenvolvimento de software], e acredito que minha curiosidade e vontade de aprender podem agregar à equipe. Estou motivado para aplicar meu conhecimento e desenvolver novas habilidades para contribuir com os desafios da empresa, trazendo soluções eficientes e inovadoras.
 
 <!--
 **Amorimo/Amorimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
