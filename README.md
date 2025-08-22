@@ -1,20 +1,54 @@
-### Olá 👋
+# 👨‍💻 Sobre Mim  
 
-## Sou um entusiasta da tecnologia que recentemente concluiu o ensino médio e estou cursando um técnico em TI, onde desenvolvi habilidades em [HTML5, CSS3, Python, Java Script, Suporte técnico, Montagem e manutenção de computadores, Windows Server (básico)]. Durante meus estudos, tive a oportunidade de trabalhar em projetos acadêmicos que me ajudaram a fortalecer minha lógica de programação e minha capacidade de solucionar problemas.
+Sou **entusiasta da tecnologia**, recém-formado no **Curso Técnico de TI**, onde desenvolvi habilidades em:  
 
-Tenho um grande interesse por [Desenvolvimento web, Web design, Suporte técnico, segurança digital, Desenvolvimento de software], e acredito que minha curiosidade e vontade de aprender podem agregar à equipe. Estou motivado para aplicar meu conhecimento e desenvolver novas habilidades para contribuir com os desafios da empresa, trazendo soluções eficientes e inovadoras.
+- 🖥️ **Front-end:** HTML5, CSS3, JavaScript, TypeScript  
+- 🐍 **Back-end:** Python  
+- 🛠️ **Infraestrutura:** Suporte técnico, montagem e manutenção de computadores  
+- ⚙️ **Servidores:** Conceitos básicos em Windows Server  
+- 🗄️ **Banco de Dados:** Experiência prática com MongoDB (nuvem) e Fedora Server (local)  
 
-<!--
-**Amorimo/Amorimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Durante minha formação, participei de **projetos acadêmicos e reais**, fortalecendo minha **lógica de programação** e minha capacidade de **resolver problemas** de forma criativa.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Áreas de Interesse  
+
+- 🌐 Desenvolvimento Web  
+- 🎨 Web Design  
+- 🔧 Suporte Técnico  
+- 🔒 Segurança Digital  
+- 💡 Desenvolvimento de Software  
+
+---
+
+## 📊 Minhas Habilidades  
+
+### Linguagens & Ferramentas  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,mongodb,git,linux,windows" />
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amorimo&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorimo&layout=compact&langs_count=7&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🔥 Streaks  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amorimo&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Conecte-se comigo  
+
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Amorim%20Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-amorim-alves/)](https://www.linkedin.com/in/matheus-amorim-alves/)  
+[![Gmail Badge](https://img.shields.io/badge/-matheus.a.amorim10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheus.a.amorim10@gmail.com)](mailto:matheus.a.amorim10@gmail.com)  
