@@ -2,11 +2,11 @@
 
 Sou **entusiasta da tecnologia**, recém-formado no **Curso Técnico de TI**, onde desenvolvi habilidades em:  
 
-- 🖥️ **Front-end:** HTML5, CSS3, JavaScript, TypeScript  
-- 🐍 **Back-end:** Python  
+- 🖥️ **Front-end:** HTML5, CSS3, JavaScript
+- 🐍 **Back-end:** Python, TypeScript
 - 🛠️ **Infraestrutura:** Suporte técnico, montagem e manutenção de computadores  
 - ⚙️ **Servidores:** Conceitos básicos em Windows Server  
-- 🗄️ **Banco de Dados:** Experiência prática com MongoDB (nuvem) e Fedora Server (local)  
+- 🗄️ **Banco de Dados:** Experiência prática com MongoDB (nuvem) e Fedora Server (local)  MySQL
 
 Durante minha formação, participei de **projetos acadêmicos e reais**, fortalecendo minha **lógica de programação** e minha capacidade de **resolver problemas** de forma criativa.  
 
